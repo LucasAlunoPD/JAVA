@@ -1,0 +1,14 @@
+
+Qual paradigma é mais indicado para o sistema de gerenciamento da biblioteca?
+
+Resposta:
+O paradigma mais indicado para implementar o sistema de gerenciamento da biblioteca é a programação orientada a objetos (POO).
+
+Justificativa:
+A POO é ideal neste contexto porque o sistema envolve entidades com propriedades e comportamentos próprios, como Livro, Autor, Usuário e Empréstimo. Com a orientação a objetos, podemos representar cada entidade como uma classe, contendo atributos (como título do livro ou nome do autor) e métodos (como cadastrar, emprestar e devolver livros).
+
+Vantagens:
+1. Estrutura e Interação: a POO permite modelar o sistema como um conjunto de objetos que interagem entre si.
+2. Reuso: com herança, composição e encapsulamento, é possível reutilizar código e facilitar a manutenção.
+3. Evolução futura: o sistema poderá crescer facilmente, com novas funcionalidades.
+4. Eficiência e clareza: facilita a leitura e organização do código.
